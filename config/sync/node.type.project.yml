@@ -1,0 +1,17 @@
+uuid: d78b7e0a-918a-4381-9c40-2715d94f9015
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Project
+type: project
+description: 'A full project, with a repo, links to work, details, whatever to make it important.'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

@@ -1,0 +1,9 @@
+uuid: b7afbe3f-68e6-4e51-a423-fff2d4958bf4
+langcode: en
+status: true
+dependencies: {  }
+id: bored_member
+label: 'Bored Member'
+weight: -6
+is_admin: null
+permissions: {  }

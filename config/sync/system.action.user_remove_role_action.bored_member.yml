@@ -1,0 +1,14 @@
+uuid: 0e279301-3ff9-463c-8569-9a380ec63aa9
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.bored_member
+  module:
+    - user
+id: user_remove_role_action.bored_member
+label: 'Remove the Bored Member role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: bored_member

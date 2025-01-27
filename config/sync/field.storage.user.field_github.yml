@@ -1,0 +1,19 @@
+uuid: c6e178f5-a6e3-4efe-9633-14d807f9b4d1
+langcode: en
+status: true
+dependencies:
+  module:
+    - link
+    - user
+id: user.field_github
+field_name: field_github
+entity_type: user
+type: link
+settings: {  }
+module: link
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

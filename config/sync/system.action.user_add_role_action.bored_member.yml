@@ -1,0 +1,14 @@
+uuid: 6bf41e13-8a23-492f-872d-276f3643d4f7
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.bored_member
+  module:
+    - user
+id: user_add_role_action.bored_member
+label: 'Add the Bored Member role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: bored_member

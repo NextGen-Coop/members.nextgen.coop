@@ -1,7 +1,7 @@
 name: members.nextgen.coop
 type: drupal10
 docroot: web
-php_version: "8.2"
+php_version: "8.3"
 webserver_type: nginx-fpm
 xdebug_enabled: false
 additional_hostnames: []
@@ -12,7 +12,7 @@ database:
 use_dns_when_possible: true
 composer_version: "2"
 web_environment: []
-nodejs_version: "18"
+nodejs_version: "22"
 
 # Key features of ddev's config.yaml:
 
